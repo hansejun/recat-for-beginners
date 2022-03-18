@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.be3d20a4.js",
-    "index.html": "/index.html",
-    "main.be3d20a4.js.map": "/static/js/main.be3d20a4.js.map"
+    "main.js": "/recat-for-beginners/static/js/main.a74f31c5.js",
+    "index.html": "/recat-for-beginners/index.html",
+    "main.a74f31c5.js.map": "/recat-for-beginners/static/js/main.a74f31c5.js.map"
   },
   "entrypoints": [
-    "static/js/main.be3d20a4.js"
+    "static/js/main.a74f31c5.js"
   ]
 }
