@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/recat-for-beginners/static/js/main.a74f31c5.js",
+    "main.js": "/recat-for-beginners/static/js/main.67f3348a.js",
     "index.html": "/recat-for-beginners/index.html",
-    "main.a74f31c5.js.map": "/recat-for-beginners/static/js/main.a74f31c5.js.map"
+    "main.67f3348a.js.map": "/recat-for-beginners/static/js/main.67f3348a.js.map"
   },
   "entrypoints": [
-    "static/js/main.a74f31c5.js"
+    "static/js/main.67f3348a.js"
   ]
 }
