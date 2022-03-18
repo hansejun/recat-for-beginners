@@ -1,0 +1,17 @@
+[ Clean up Function ]
+- component가 destroy 될 때 작동하는 함수
+- 콜백함수가 콜백함수를 리턴
+
+useEffect(()=>{
+  console.log("Hello");
+  return ()=>{
+    console.log("Bye");
+  }
+},[])
+
+- 컴포넌트가 시작될 때 Hello 발생. 그리고 컴포넌트가 삭제될 때 Bye 발생
+
+-------------------------------------------------------------
+[ gh-pages ]
+- gh-pages는 githup pages에 업로드할 수 있게 해주는 패키지이다.
+- npm i gh-pages 
