@@ -4,9 +4,12 @@ import Detail from "./pages/Detail";
 function App() {
   return (
     <BrowserRouter>
-      <Routes path={`${process.env.PUBLIC_URL}/`}>
-        <Route index element={<Home />} />
-        <Route path="movies/:id" element={<Detail />} />
+      <Routes>
+        <Route path={`${process.env.PUBLIC_URL}/`} element={<Home />} />
+        <Route
+          path={`${process.env.PUBLIC_URL}/movies/:id`}
+          element={<Detail />}
+        />
       </Routes>
     </BrowserRouter>
   );
